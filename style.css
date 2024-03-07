@@ -1,0 +1,63 @@
+body{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: rgb(34, 34, 34);
+}
+span{
+    color: red;
+}
+.wrapper1{
+    margin: 0;
+
+}
+.wrapper{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform:translate(-50%, -50%);
+    padding: 60px;
+    width: 400px;
+    background: rgb(41, 40, 40);
+    border-radius: 5px;
+    box-shadow: rgb(41, 41, 42) 0px 20px 30px -10px;
+    height: 420px;
+}
+.image_right img{
+  height:100%;
+  margin-left: 500px;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+button{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    border: 2px solid white;;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+    background-color: greenyellow;
+}
+.class{
+    position: left;
+    
+}
+.Kartik-container1{
+    display: flex;
+    gap:100px;
+    height:auto;
+}
+.section__title-border{
+    text-align: center;
+    width: auto;
+}
+.calculate__description{
+    text-align: center;
+    width: auto;
+}
+.calculate__content{
+    
+}
